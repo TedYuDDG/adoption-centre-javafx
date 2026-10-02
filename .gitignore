@@ -1,0 +1,8 @@
+.DS_Store
+*.class
+*.jar
+out/
+build/
+target/
+.idea/
+.vscode/
